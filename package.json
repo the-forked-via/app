@@ -59,7 +59,6 @@
     "use-resize-observer": "^9.1.0",
     "via-keyboards": "github:the-via/keyboards",
     "vite": "^4.1.4",
-    "vite-plugin-html": "^3.2.0",
     "wouter": "^2.10.0"
   },
   "packageManager": "yarn@4.2.2"
