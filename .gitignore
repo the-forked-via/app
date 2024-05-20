@@ -1,8 +1,7 @@
 .DS_STORE
 .env
-.snowpack
-build
+.yarn/install-state.gz
+.yarn/build-state.yml
+dist
 node_modules
 public/definitions
-dist
-dist-ssr
