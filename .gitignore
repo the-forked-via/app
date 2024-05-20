@@ -2,6 +2,7 @@
 .env
 .yarn/install-state.gz
 .yarn/build-state.yml
+dev-dist
 dist
 node_modules
 public/definitions

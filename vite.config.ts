@@ -3,6 +3,7 @@ import react from '@vitejs/plugin-react';
 import path from 'path';
 import {splitVendorChunkPlugin} from 'vite';
 import fs from 'fs';
+import {VitePWA} from 'vite-plugin-pwa';
 
 const definitionHash = fs.readFileSync('public/definitions/hash.json', 'utf8');
 
@@ -11,6 +12,12 @@ export default defineConfig({
   plugins: [
     react(),
     splitVendorChunkPlugin(),
+    VitePWA({
+      registerType: 'autoUpdate',
+      devOptions: {
+        enabled: true,
+      },
+    }),
   ],
   define: {
     '__DEFINITION_HASH__': definitionHash,
