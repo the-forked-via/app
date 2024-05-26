@@ -1,4 +1,4 @@
-name: Update eos-tzdata
+name: Update definitions
 
 on:
   workflow_dispatch:
