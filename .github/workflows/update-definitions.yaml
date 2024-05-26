@@ -1,8 +1,6 @@
 name: Update definitions
 
-permissions:
-  pull-requests: write
-  contents: write
+permissions: read-all
 
 on:
   workflow_dispatch:
