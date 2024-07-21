@@ -29,5 +29,5 @@ jobs:
         with:
           commit-message: "chore: automatically update definitions"
           title: "chore: automatically update definitions"
-          body: Update definitions from `[the-via/keyboards](https://github.com/the-via/keyboards)`
+          body: Update definitions from [the-via/keyboards](https://github.com/the-via/keyboards)
           branch: workflow/update-definitions

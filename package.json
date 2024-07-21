@@ -6,7 +6,7 @@
     "build": "yarn run build:kbs && tsc --noEmit && vite build",
     "format": "prettier --write \"src/**/*.{js,jsx,ts,tsx}\"",
     "lint": "prettier --check \"src/**/*.{js,jsx,ts,tsx}\"",
-    "refresh-kbs": "yarn remove via-keyboards && yarn add via-keyboards@github:the-via/keyboards",
+    "refresh-kbs": "yarn remove via-keyboards && yarn add via-keyboards@github:the-via/keyboards -D",
     "build:azure": "yarn run refresh-kbs && yarn run build",
     "preview": "vite preview",
     "build:kbs": "via-keyboards public/definitions"
