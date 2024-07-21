@@ -6988,7 +6988,7 @@ __metadata:
     typescript: "npm:^4.9.5"
   bin:
     via-keyboards: ./bin/cli.js
-  checksum: 10c0/ae470cce9361d4ec4aaa9a432573c547386e6b32f4e1a7f3d136b7d8d2ccc351f86e8bbc06a102eec0585a329604c84235fc0a3739cefaac4eac03fa3eefa465
+  checksum: 10c0/d62129f0300f1b8de74691a9b016d65238c68ad7425b8341eed888de8af90d4f2afb3310b891abda5df665528a2e1f9366cec1ecd8e58237572db89e5c5dd64e
   languageName: node
   linkType: hard
 
