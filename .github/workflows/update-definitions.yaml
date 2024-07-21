@@ -1,7 +1,5 @@
 name: Update definitions
 
-permissions: read-all
-
 on:
   workflow_dispatch:
   schedule:
