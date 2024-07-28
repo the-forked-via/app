@@ -6976,7 +6976,7 @@ __metadata:
 
 "via-keyboards@github:the-via/keyboards":
   version: 0.1.0
-  resolution: "via-keyboards@https://github.com/the-via/keyboards.git#commit=080f300ab9c09cc3f3ebc579c2fe392f740007b1"
+  resolution: "via-keyboards@https://github.com/the-via/keyboards.git#commit=5bdc27bb254b9c196bcdc937cb40fe63ade430c3"
   dependencies:
     "@the-via/reader": "npm:^1.8.0"
     "@types/fs-extra": "npm:^11.0.1"
@@ -6988,7 +6988,7 @@ __metadata:
     typescript: "npm:^4.9.5"
   bin:
     via-keyboards: ./bin/cli.js
-  checksum: 10c0/d62129f0300f1b8de74691a9b016d65238c68ad7425b8341eed888de8af90d4f2afb3310b891abda5df665528a2e1f9366cec1ecd8e58237572db89e5c5dd64e
+  checksum: 10c0/1c6e08e4af89f29470469622f2ad07badefc99ed569a363ad719d731253097eb7beac1f0049129a3d8ef83c35204e3e52b99e1f0aef6b13400343354ffd6131b
   languageName: node
   linkType: hard
 
