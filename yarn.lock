@@ -2387,6 +2387,16 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@the-via/reader@npm:^1.9.0":
+  version: 1.9.0
+  resolution: "@the-via/reader@npm:1.9.0"
+  dependencies:
+    invariant: "npm:^2.2.4"
+    typescript-json-validator: "npm:2.4.2"
+  checksum: 10c0/ffe518cf18ff7feb52b9b3560e75a4284413837bdb205d533ca79cd4acaa6ff286b4bea0c61a6d01ff719bdb535fee53b47302885f4675556e16ca39f686245c
+  languageName: node
+  linkType: hard
+
 "@tsconfig/node10@npm:^1.0.7":
   version: 1.0.11
   resolution: "@tsconfig/node10@npm:1.0.11"
@@ -2800,11 +2810,11 @@ __metadata:
   linkType: hard
 
 "acorn@npm:^8.11.0, acorn@npm:^8.4.1":
-  version: 8.12.1
-  resolution: "acorn@npm:8.12.1"
+  version: 8.13.0
+  resolution: "acorn@npm:8.13.0"
   bin:
     acorn: bin/acorn
-  checksum: 10c0/51fb26cd678f914e13287e886da2d7021f8c2bc0ccc95e03d3e0447ee278dd3b40b9c57dc222acd5881adcf26f3edc40901a4953403232129e3876793cd17386
+  checksum: 10c0/f35dd53d68177c90699f4c37d0bb205b8abe036d955d0eb011ddb7f14a81e6fd0f18893731c457c1b5bd96754683f4c3d80d9a5585ddecaa53cdf84e0b3d68f7
   languageName: node
   linkType: hard
 
@@ -6976,9 +6986,9 @@ __metadata:
 
 "via-keyboards@github:the-via/keyboards":
   version: 0.1.0
-  resolution: "via-keyboards@https://github.com/the-via/keyboards.git#commit=e4603d9cb9613346e8ae69e66e9008d90cde6c18"
+  resolution: "via-keyboards@https://github.com/the-via/keyboards.git#commit=904b42c4195dc25683db1483d960e9c075889e7c"
   dependencies:
-    "@the-via/reader": "npm:^1.8.0"
+    "@the-via/reader": "npm:^1.9.0"
     "@types/fs-extra": "npm:^11.0.1"
     "@types/glob": "npm:^8.0.1"
     "@types/rimraf": "npm:^3.0.2"
@@ -6988,7 +6998,7 @@ __metadata:
     typescript: "npm:^4.9.5"
   bin:
     via-keyboards: ./bin/cli.js
-  checksum: 10c0/3cc679118d9f01b79b5028dd8543670b94e5d00cdd2e958630f35bc6715a4be839176266dd74b67bedc32bbe00b0db0dcb48d896f63f48a3790b0b0b7b8de384
+  checksum: 10c0/5a2108db7c8291b7fac193dcb1f76f6af496d965379f8a8e22d9d8427b646c4e9b6cef8414dae3bff65446bab6861d985595f4383f3fa70a3b53cf4160f08598
   languageName: node
   linkType: hard
 
