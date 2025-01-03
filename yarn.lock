@@ -2810,11 +2810,11 @@ __metadata:
   linkType: hard
 
 "acorn@npm:^8.11.0, acorn@npm:^8.4.1":
-  version: 8.13.0
-  resolution: "acorn@npm:8.13.0"
+  version: 8.14.0
+  resolution: "acorn@npm:8.14.0"
   bin:
     acorn: bin/acorn
-  checksum: 10c0/f35dd53d68177c90699f4c37d0bb205b8abe036d955d0eb011ddb7f14a81e6fd0f18893731c457c1b5bd96754683f4c3d80d9a5585ddecaa53cdf84e0b3d68f7
+  checksum: 10c0/6d4ee461a7734b2f48836ee0fbb752903606e576cc100eb49340295129ca0b452f3ba91ddd4424a1d4406a98adfb2ebb6bd0ff4c49d7a0930c10e462719bbfd7
   languageName: node
   linkType: hard
 
@@ -6986,7 +6986,7 @@ __metadata:
 
 "via-keyboards@github:the-via/keyboards":
   version: 0.1.0
-  resolution: "via-keyboards@https://github.com/the-via/keyboards.git#commit=904b42c4195dc25683db1483d960e9c075889e7c"
+  resolution: "via-keyboards@https://github.com/the-via/keyboards.git#commit=1db3e46afc464c9db0644c43638c7dc8660c6c90"
   dependencies:
     "@the-via/reader": "npm:^1.9.0"
     "@types/fs-extra": "npm:^11.0.1"
@@ -6998,7 +6998,7 @@ __metadata:
     typescript: "npm:^4.9.5"
   bin:
     via-keyboards: ./bin/cli.js
-  checksum: 10c0/5a2108db7c8291b7fac193dcb1f76f6af496d965379f8a8e22d9d8427b646c4e9b6cef8414dae3bff65446bab6861d985595f4383f3fa70a3b53cf4160f08598
+  checksum: 10c0/baf0f762a231c1d7eb32ec23bbfc5bccd6928e54df1752c340dc252f0d977ec0d13386739f77b281a1779bcb06a8877f38d14384c2eb6c2fc0358c267e26064c
   languageName: node
   linkType: hard
 
