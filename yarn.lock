@@ -2810,11 +2810,11 @@ __metadata:
   linkType: hard
 
 "acorn@npm:^8.11.0, acorn@npm:^8.4.1":
-  version: 8.14.0
-  resolution: "acorn@npm:8.14.0"
+  version: 8.14.1
+  resolution: "acorn@npm:8.14.1"
   bin:
     acorn: bin/acorn
-  checksum: 10c0/6d4ee461a7734b2f48836ee0fbb752903606e576cc100eb49340295129ca0b452f3ba91ddd4424a1d4406a98adfb2ebb6bd0ff4c49d7a0930c10e462719bbfd7
+  checksum: 10c0/dbd36c1ed1d2fa3550140000371fcf721578095b18777b85a79df231ca093b08edc6858d75d6e48c73e431c174dcf9214edbd7e6fa5911b93bd8abfa54e47123
   languageName: node
   linkType: hard
 
@@ -3975,13 +3975,13 @@ __metadata:
   linkType: hard
 
 "fs-extra@npm:^11.1.0":
-  version: 11.2.0
-  resolution: "fs-extra@npm:11.2.0"
+  version: 11.3.0
+  resolution: "fs-extra@npm:11.3.0"
   dependencies:
     graceful-fs: "npm:^4.2.0"
     jsonfile: "npm:^6.0.1"
     universalify: "npm:^2.0.0"
-  checksum: 10c0/d77a9a9efe60532d2e790e938c81a02c1b24904ef7a3efb3990b835514465ba720e99a6ea56fd5e2db53b4695319b644d76d5a0e9988a2beef80aa7b1da63398
+  checksum: 10c0/5f95e996186ff45463059feb115a22fb048bdaf7e487ecee8a8646c78ed8fdca63630e3077d4c16ce677051f5e60d3355a06f3cd61f3ca43f48cc58822a44d0a
   languageName: node
   linkType: hard
 
@@ -6986,7 +6986,7 @@ __metadata:
 
 "via-keyboards@github:the-via/keyboards":
   version: 0.1.0
-  resolution: "via-keyboards@https://github.com/the-via/keyboards.git#commit=1db3e46afc464c9db0644c43638c7dc8660c6c90"
+  resolution: "via-keyboards@https://github.com/the-via/keyboards.git#commit=ca1e404d579bfeac5d4b8986b4ad1a18b0d9e8f6"
   dependencies:
     "@the-via/reader": "npm:^1.9.0"
     "@types/fs-extra": "npm:^11.0.1"
@@ -6998,7 +6998,7 @@ __metadata:
     typescript: "npm:^4.9.5"
   bin:
     via-keyboards: ./bin/cli.js
-  checksum: 10c0/baf0f762a231c1d7eb32ec23bbfc5bccd6928e54df1752c340dc252f0d977ec0d13386739f77b281a1779bcb06a8877f38d14384c2eb6c2fc0358c267e26064c
+  checksum: 10c0/ed7e3bc595eb0bc3ef0de84a14241656940b5191a3b621d13cb16c0760020398060361ca39b89414e567589c6d1566651cb4668e90206a506b5cf730d4f5caa7
   languageName: node
   linkType: hard
 
